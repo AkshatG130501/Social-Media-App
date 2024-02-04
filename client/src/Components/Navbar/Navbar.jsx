@@ -1,6 +1,6 @@
 import React from 'react'
 import NavLinks from './NavLinks'
-import UserLinks from './UserLinks'
+import UserLinks from './userLinks'
 
 const Navbar = () => {
   return (
