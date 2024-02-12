@@ -54,7 +54,7 @@ const UserLinks = () => {
             </div>
             <div className='mx-4 flex items-center'>
                 <Tooltip content="Sign Out" placement="bottom">
-                    <Avatar color="lightBlue" size="sm" src="https://cdn1.iconfinder.com/data/icons/avatars-1-5/136/87-512.png"></Avatar>
+                    <Avatar  size="sm" src="https://cdn1.iconfinder.com/data/icons/avatars-1-5/136/87-512.png"></Avatar>
                 </Tooltip>
                 <p className='ml-4 font-roboto text-sm text-black font-medium no-underline'>
                     User    
