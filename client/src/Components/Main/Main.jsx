@@ -1,6 +1,5 @@
 import React, { useState, useRef, useContext, useReducer, useEffect } from 'react';
 import { Avatar, Button, Alert } from '@material-tailwind/react';
-import addImage from '../../assets/images/addImage.png';
 
 const Main = () => {
   return (
